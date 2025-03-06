@@ -1,2 +1,11 @@
 # Food Recalls in 2025
  
+For this project, I wanted to accomplish how to do the mobile option for these articles, how to put things side by side on the page, and to incorporate some of my graphic design skills to make a more unique chart. 
+
+I found that FDA does their information by product and by public releases of recalls, instead of counting the actual recalls, which was insteresting. I also found that they started the dashboard for consumers and companies in 2012, which is fairly recent since it is an older organization. Data-wise, this was not a difficult dataset to understand, which was a good thing because I was focused on the coding and graphic aspect of this assignment.
+
+I have some experience with making graphics different sizes for mobile, computer screens, and television screens. I did not know how to do the ai2html, which was exciting to learn. It was not difficult and I got it to work fairly easily. The longest part of this process was when it came to incorporating it into the code because it would show both so I had to play around with the media tags. 
+
+The hardest part that I struggled with was the side by side with two charts. Because of the datasets that I had and some annotations, I could not accomplish this with a chart becuase it kept making them smaller and cramped, so it did not look appealing at all. I tried everything that I could think of to get it to work, but I instead decided that it would be better if I took one to another section of the page and added some text of other recalls by the USDA. This helped note an important part of the piece.
+
+If I had more time, I would definitely fix the chart situation so I could have to of them side by side. I also would add more context and add some information about the USDA besides the text included becuase it is an important aspect. I added some notes about USDA, but I could add the recalls together and make a chart that is not dedicated to just the FDA, but unfortunately I did not have time for this type of analysis. 
